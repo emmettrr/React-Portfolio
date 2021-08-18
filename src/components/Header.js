@@ -48,7 +48,7 @@ const Header = () => {
           strings={[
             "Frontend Developer",
             "Backend Developer",
-            "Native App Developer",
+            "Full Stack Developer",
           ]}
           typeSpeed={40}
           backSpeed={50}
